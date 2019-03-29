@@ -18,3 +18,10 @@ title={On Minimum Discrepancy Estimation for Deep Domain Adaptation},
 year={2018}, 
 
 ```
+
+
+## Contact
+If you have any query about our work, feel free to contact
+
+mahfuj092@gmail.com
+or describe your problem in Issues.
