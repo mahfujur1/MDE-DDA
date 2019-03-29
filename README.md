@@ -3,7 +3,7 @@
 The Link of the paper [Paper in arxiv](https://arxiv.org/abs/1901.00282v1).
 
 ## Architecture
-![alt text](images/Arch.PNG)
+![alt text](images/arch.PNG)
 
 
 
