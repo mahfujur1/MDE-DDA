@@ -1,11 +1,15 @@
-# MDE-DDA
 # On Minimum Discrepancy Estimation for Deep Domain Adaptation
 
 The Link of the paper [Paper in arxiv](https://arxiv.org/abs/1901.00282v1).
 
+## Architecture
+![alt text](images/Arch.PNG)
 
 
-Please Cite:
+
+
+## Citation
+
 ```
 @INPROCEEDINGS{icml_w2018, 
 author={M. M. {Rahman} and C. {Fookes} and M. {Baktashmotlagh} and S. {Sridharan}}, 
