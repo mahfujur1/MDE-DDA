@@ -21,6 +21,6 @@ year={2018},
 
 
 ## Contact
-If you have any query about our work, feel free to contact.
-mahfuj092@gmail.com
+If you have any query about our work, feel free to contact
+- mahfuj092@gmail.com
 
